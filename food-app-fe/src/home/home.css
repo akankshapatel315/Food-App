@@ -1,0 +1,14 @@
+.centered {
+    position: absolute;
+    top: 10rem;
+    left: 55rem;
+    transform: translate(-50%, -50%);
+    
+  }
+
+  .img-class {
+    position: relative;
+    width: 115rem; 
+    height: 30rem;
+  }
+
